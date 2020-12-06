@@ -44,6 +44,12 @@ In the client folder of the app run `ng serve` for a dev server. Navigate to `ht
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Demo
+
+![Dashboard](DatingAppDashboard.png)
+
+![Edit profile](DatingAppEdit.png)
+
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
